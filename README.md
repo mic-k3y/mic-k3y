@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Michael.
--->
+
 
 - 📚 Computer Science Student @ Colby College
 - 🔭 I’m currently working on an AI-powered SaaS LMS application 
